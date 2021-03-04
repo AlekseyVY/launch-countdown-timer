@@ -1,5 +1,6 @@
 import Home from "./pages/Home/Home";
-
+import 'normalize.css'
+import './styles/globals.css'
 
 
 function App() {
