@@ -2,7 +2,7 @@
 
 ![Design preview for the Launch countdown timer coding challenge](./design/desktop-preview.jpg)
 
-## [link to project](#)
+## [link to project](https://launch-countdown-timer-smoky.vercel.app/)
 
 ## Your users should be able to:
 
