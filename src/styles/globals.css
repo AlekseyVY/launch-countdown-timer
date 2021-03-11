@@ -7,3 +7,13 @@ html {
   justify-content: center;
   align-items: center;
 }
+
+.flip-countdown-piece {
+  color: #8385A9;
+}
+
+.flip-countdown .flip-countdown-piece {
+  color: #8385A9;
+  font-size: 1.4rem;
+  letter-spacing: 5.92px;
+}
